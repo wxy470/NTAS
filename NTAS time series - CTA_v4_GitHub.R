@@ -7,7 +7,7 @@ library(dplyr)
 library(scales)
 
 rm(list = ls())
-setwd("~/Dropbox (MIT)/01-JTL project/National Transit Adaptation Strategy")
+setwd("") # change working directory as needed
 
 # ====================== functions ======================
 # function: arima grid search
